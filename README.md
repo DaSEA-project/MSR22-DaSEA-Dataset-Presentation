@@ -16,9 +16,24 @@ This repository contains a presentation of the DaSEA dataset and the correspondi
 <table>
   <tr>
     <th>
+    </th>
+    <th>
       <a href="http://dasea.org">
         <center>
           <h2>Get the dataset</h2>
+          <img src="images/getit_end.png" width="96%">
+        </center>
+      </a>      
+    </th>
+    <th>
+    </th>      
+  </tr>
+  <tr>
+    <th>
+      <a href="https://mybinder.org/v2/gh/DaSEA-project/MSR22-DaSEA-Dataset-Presentation/main?filepath=index.ipynb">
+        <center>
+          <h2>Check the presentation</h2>
+          <img src="images/presentation.png" width="87%">
         </center>
       </a>
     </th>
@@ -26,6 +41,7 @@ This repository contains a presentation of the DaSEA dataset and the correspondi
       <a href="https://github.com/DaSEA-project/DASEA">
         <center>
           <h2>Contribute</h2>
+          <img src="images/contribute.png" width="90%">
         </center>
       </a>
     </th>
@@ -33,27 +49,9 @@ This repository contains a presentation of the DaSEA dataset and the correspondi
       <a href="https://itu.dk/~ropf/blog/assets/msr2022.pdf">
         <center>
           <h2>Read the paper</h2>
+          <img src="images/paper.png" width="100%">
         </center>
-      </a>
-    </th>
-  </tr>    
-  <tr>
-    <th>
-      <a href="http://dasea.org">
-        <center>
-          <img src="images/getit_end.png" width="100%">
-        </center>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/DaSEA-project/DASEA">
-        <img src="images/contribute.png" width="100%">
-      </a>
-    </th>
-    <th>
-      <a href="https://itu.dk/~ropf/blog/assets/msr2022.pdf">
-        <img src="images/paper.png" width="100%">
       </a>
     </th>      
-  </tr>
-</table> 
+  </tr>    
+</table>
