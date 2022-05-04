@@ -1,4 +1,4 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DaSEA-project/MSR22-DaSEA-Dataset-Presentation/main)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DaSEA-project/MSR22-DaSEA-Dataset-Presentation/main?filepath=index.ipynb)
 
 # Presentation of the DaSEA Dataset @ MSR 2022
 
@@ -6,11 +6,9 @@
 
 This repository contains a presentation of the DaSEA dataset and the corresponding paper _"DaSEA – A Dataset for Software Ecosystem Analysis"_, which was presented at the [_Data and Tool Showcase Track_](https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers?track=MSR%20Data%20and%20Tool%20Showcase%20Track#) at the [2022 Mining Software Repositories Conference (MSR)](https://conf.researchr.org/home/msr-2022).
 
-
-
 ## Running the presentation
 
-  * Click this button 👉 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DaSEA-project/MSR22-DaSEA-Dataset-Presentation/main) to walk through the executable presentation.
+  * Click this button 👉 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DaSEA-project/MSR22-DaSEA-Dataset-Presentation/main?filepath=index.ipynb) to walk through the executable presentation.
 
 
 ## What else?
