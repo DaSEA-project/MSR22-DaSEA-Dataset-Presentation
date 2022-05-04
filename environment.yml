@@ -7,4 +7,6 @@ dependencies:
   - matplotlib
   - pandas
   - rise
-  - ipysigma
+  - pip
+  - pip:
+    - ipysigma
